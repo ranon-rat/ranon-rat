@@ -1,5 +1,5 @@
 ### Hello I am pythonBoy
-![alt text](https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/instalacion-de-nodejs-en-ubuntu-t1.jpg)
+![alt text](https://cdn.discordapp.com/avatars/709183027913424998/2a42d1029a3715698dcae73d74dee323.png?size=256)
 
 
 ## i programm in  node.js ,golang and python and that languages you normally see in my repositores 
