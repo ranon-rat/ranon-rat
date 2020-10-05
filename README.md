@@ -13,3 +13,9 @@ my best projects they are
 
 - music generator by text [musicaFreddy](https://github.com/pythonBoy123/musicaFreddy)
 -in tha future probable more
+
+
+
+
+
+viva el comunismo de derecha
