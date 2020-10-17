@@ -1,8 +1,8 @@
-### Hello I am rano-rat
+### Hello I am ranon-rat
 ![alt text](https://cdn.discordapp.com/avatars/709183027913424998/2a42d1029a3715698dcae73d74dee323.png?size=256)
 
 
-## i code in  node.js ,golang and python and that languages you normally see in my repositores 
+## i code in  node.js and golang  and that languages you normally see in my repositores 
 I am a programmer of 15 years old i really like coding 
 normally you gona see creative things like a music generator or discord bot but
 is not the only thing i do , sometimes i like to make tcp servers or web pages .
