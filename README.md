@@ -11,7 +11,7 @@ my best projects they are
 ![alt text](https://cdn.discordapp.com/attachments/744058272754958357/761107566406270986/reddit.png)
 
 - music generator by text [musicaFreddy](https://github.com/pythonBoy123/musicaFreddy)
--in tha future probable more
+- spyware made in golang  [golang-spyware](https://github.com/ranon-rat/golang-spyware)
 
 
 
