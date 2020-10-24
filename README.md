@@ -8,9 +8,8 @@ is not the only thing i do , sometimes i like to make tcp servers or web pages .
 my best projects they are 
 - a simple stories grabber [redditReplaceHumans](https://github.com/pythonBoy123/redditReplaceHumans)
 
-![alt text](https://cdn.discordapp.com/attachments/744058272754958357/761107566406270986/reddit.png)
-
 - music generator by text [musicaFreddy](https://github.com/pythonBoy123/musicaFreddy)
+
 - spyware made in golang  [golang-spyware](https://github.com/ranon-rat/golang-spyware)
 
 
