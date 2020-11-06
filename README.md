@@ -12,7 +12,7 @@
 
 - a page for use a genetic algorithm [monkey page](https://ranon-rat.github.io/monkeyPage/)
 
-- spyware made in golang å [golang-spyware](https://github.com/ranon-rat/golang-spyware)
+- spyware made in golang [golang-spyware](https://github.com/ranon-rat/golang-spyware)
 
 - echo server made with golang [echo-server-go](https://githåub.com/ranon-rat/echo-server-go)
 
