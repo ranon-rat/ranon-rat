@@ -1,5 +1,6 @@
+
 <h1> Hello I am ranon-rat</h1>
-![alt text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
+![alt_text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
 
 ## i code in  node.js and golang,that languages you normally see in my repositores 
 <h4>I am a programmer of 15 years old i really like coding </h4>
@@ -11,9 +12,9 @@
 
 - a page for use a genetic algorithm [monkey page](https://ranon-rat.github.io/monkeyPage/)
 
-- spyware made in golang  [golang-spyware](https://github.com/ranon-rat/golang-spyware)
+- spyware made in golang å [golang-spyware](https://github.com/ranon-rat/golang-spyware)
 
-- echo server made with golang [echo-server-go](https://github.com/ranon-rat/echo-server-go)
+- echo server made with golang [echo-server-go](https://githåub.com/ranon-rat/echo-server-go)
 
 - latam meme [momos en consola](https://github.com/ranon-rat/when-haces-tus-momos-en-consola)
 
