@@ -1,7 +1,7 @@
 
 <h1> Hello I am ranon-rat</h1>
 
-![alt text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
+
 ## i code in  node.js and golang,that languages you normally see in my repositores 
 <h4>I am a programmer of 15 years old i really like coding </h4>
 <h4>normally you gona see creative things like a music generator or discord bot but</h4>
@@ -19,7 +19,7 @@
 - latam meme [momos en consola](https://github.com/ranon-rat/when-haces-tus-momos-en-consola)
 
 
-
+![alt text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
 
 
 viva el comunismo de derecha
