@@ -20,6 +20,3 @@
 
 
 ![alt text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
-
-
-viva el comunismo de derecha
