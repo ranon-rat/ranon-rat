@@ -18,6 +18,6 @@
 
 - latam meme [momos en consola](https://github.com/ranon-rat/when-haces-tus-momos-en-consola)
 
-- backdoor made in golang [golang-backdoor](https://github.com/ranon-rat/golang-backdoor)
+- backdoor made in golang [golang-remote](https://github.com/ranon-rat/golang-remote)
 
 ![alt text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
