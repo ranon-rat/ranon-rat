@@ -21,7 +21,8 @@
 - backdoor made in golang [golang-remote](https://github.com/ranon-rat/golang-remote)
 
 <h1>
-projects in which I help and Iand contributed
+
+projects in which I have contributed
 </h1>
 
 
