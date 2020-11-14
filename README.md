@@ -28,6 +28,5 @@ projects in which I help and Iand contributed
 
 - in the security of this site [pai chat](https://paichat.glitch.me/)
 
-- all the html/css/js of this fanPage because before are maked in markdown in one hour [papifreddy](https://papifreddy.tk/)
 
 ![alt text](https://repository-images.githubusercontent.com/309936288/805ea980-1e4b-11eb-8873-1b0a523cf744)
