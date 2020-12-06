@@ -28,7 +28,7 @@
 <a href="https://github.com/ranon-rat/golang-spyware">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true">
  </a>
-<a href="https://github.com/ranon-rat/echo-server-go">
+<a href="https://github.com/ranon-rat/echo-server-go"
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true">
  </a>
 <a href="https://github.com/ranon-rat/when-haces-tus-momos-en-consola">
@@ -42,7 +42,7 @@
 <h1> stats</h1>
 
 <p>
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact/">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true">
 </p>
 
