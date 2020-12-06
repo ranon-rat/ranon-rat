@@ -23,3 +23,7 @@
 | latam meme [momos en consola](https://github.com/ranon-rat/when-haces-tus-momos-en-consola)         | golang            |
 | backdoor made in  [golang-remote](https://github.com/ranon-rat/golang-remote)                       | golang,javascript |
 
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ranon-rat)
+
