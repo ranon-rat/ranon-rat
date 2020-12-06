@@ -16,15 +16,15 @@
 ---------------------------------------------
 # my best projects in my github they are </h1>
                  
-[<img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true">](https://github.com/pythonBoy123/redditReplaceHumans) 
-[<img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true">](https://ranon-rat.github.io/monkeyPage/)
-[<img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true">](https://github.com/ranon-rat/golang-spyware) 
-[<img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true">](https://github.com/ranon-rat/echo-server-go) 
-[<img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=when-haces-tus-momos-en-consola&show_owner=true">](https://github.com/ranon-rat/when-haces-tus-momos-en-consola) 
-[<img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true">](https://github.com/ranon-rat/golang-remote)
+[<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true">](https://github.com/pythonBoy123/redditReplaceHumans) 
+[<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true">](https://ranon-rat.github.io/monkeyPage/)
+[<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true">](https://github.com/ranon-rat/golang-spyware) 
+[<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true">](https://github.com/ranon-rat/echo-server-go) 
+[<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=when-haces-tus-momos-en-consola&show_owner=true">](https://github.com/ranon-rat/when-haces-tus-momos-en-consola) 
+[<img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true">](https://github.com/ranon-rat/golang-remote)
 # stats
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact)
-![ranon-rat](https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true) 
+<img height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact">
+<img height=120 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true">
 
