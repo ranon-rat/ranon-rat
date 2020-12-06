@@ -5,7 +5,9 @@
 
 ## i programm in nodejs , golang & arduino
 <p align="center" >
-<img  width=300 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"><img  width=300 src="https://camo.githubusercontent.com/2251a8a9328392dabd00abee76b4ba91f390264d8608e6a23fe39bc90cbe02b3/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3730363334393132363731393234323330322f3738343939323438393334353737373731342f4163397662787043704467574141414141456c46546b5375516d43432e706e67"><img width=300 src = "https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
+  <img height=300 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img height=300  src="https://miro.medium.com/fit/c/262/262/1*yh90bW8jL4f8pOTZTvbzqw.png">
+  <img height=300 src = "https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
 </p>
 
 ---------------------------------------------
