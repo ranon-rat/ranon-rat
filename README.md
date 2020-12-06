@@ -42,9 +42,9 @@
 <h1> stats</h1>
 
 <p>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact/">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact ">
 </p>
 <p>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true">
 </p>
 
