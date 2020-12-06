@@ -16,5 +16,5 @@
                  
 [![redditReplaceHumans](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true)](https://github.com/pythonBoy123/redditReplaceHumans) [![monkey page](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true)](https://ranon-rat.github.io/monkeyPage/) [![golang-spyware](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true)](https://github.com/ranon-rat/golang-spyware) [![echo-server-go](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true)](https://github.com/ranon-rat/echo-server-go) [![momos en consola](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=when-haces-tus-momos-en-consola&show_owner=true)](https://github.com/ranon-rat/when-haces-tus-momos-en-consola) [![golang-remote](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true)](https://github.com/ranon-rat/golang-remote)
 
-![ranon-rat](https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true))
+![ranon-rat](https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true)
 
