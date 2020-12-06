@@ -5,9 +5,9 @@
 
 <h2>i programm in nodejs , golang & arduino</h2>
 <p align="center" >
-  <img height=300 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-  <img height=300  src="https://miro.medium.com/fit/c/262/262/1*yh90bW8jL4f8pOTZTvbzqw.png">
-  <img height=300 src = "https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
+  <img height=150 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
+  <img height=150  src="https://miro.medium.com/fit/c/262/262/1*yh90bW8jL4f8pOTZTvbzqw.png">
+  <img height=150 src = "https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
 </p>
 
 ---------------------------------------------
