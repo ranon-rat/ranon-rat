@@ -20,9 +20,7 @@
 [![echo-server-go](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true)](https://github.com/ranon-rat/echo-server-go) 
 [![momos en consola](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=when-haces-tus-momos-en-consola&show_owner=true)](https://github.com/ranon-rat/when-haces-tus-momos-en-consola) 
 [![golang-remote](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true)](https://github.com/ranon-rat/golang-remote)
-
-
-
+# stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat)
 ![ranon-rat](https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true) 
 
