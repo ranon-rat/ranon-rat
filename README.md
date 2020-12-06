@@ -22,5 +22,5 @@
 [![golang-remote](https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true)](https://github.com/ranon-rat/golang-remote)
 
 ![ranon-rat](https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact)](https://github.com/ranon-rat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat)](https://github.com/ranon-rat)
 
