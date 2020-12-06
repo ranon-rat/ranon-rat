@@ -1,9 +1,9 @@
-<body>
+
 <h1  align="center">Hello I am ranon-rat</h1>
 
 --------------------------------------------
 
-## i programm in nodejs , golang & arduino
+<h2>i programm in nodejs , golang & arduino</h2>
 <p align="center" >
   <img height=300 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img height=300  src="https://miro.medium.com/fit/c/262/262/1*yh90bW8jL4f8pOTZTvbzqw.png">
@@ -45,4 +45,4 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true">
 </p>
-</body>
+
