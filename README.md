@@ -1,5 +1,5 @@
-
-<h1 height=500 align="center">Hello I am ranon-rat</h1>
+<body>
+<h1  align="center">Hello I am ranon-rat</h1>
 
 --------------------------------------------
 
@@ -12,11 +12,12 @@
 
 ---------------------------------------------
 
-# about me
+<h1> about me</h1>
+<h4> I am a programmer of 15 years old i really like coding. you gona see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
 
-#### I am a programmer of 15 years old i really like coding. you gona see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .
 ---------------------------------------------
-# my best projects in my github they are </h1>
+
+<h1> my best projects in my github they are </h1>
 <p >                 
 <a href="https://github.com/pythonBoy123/redditReplaceHumans">
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true"></a>
@@ -38,9 +39,10 @@
   </a>
   </p>
   
-# stats
+<h1> stats</h1>
 
 <p>
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true">
 </p>
+</body>
