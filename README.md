@@ -13,7 +13,7 @@
 ---------------------------------------------
 
 <h1> about me</h1>
-<h4> I am a programmer of 15 years old i really like coding. you gona see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
+<h4> I am a programmer of 15 years old i really like coding, you gonna see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
 
 ---------------------------------------------
 
