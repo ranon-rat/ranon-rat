@@ -45,4 +45,5 @@
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=radical">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true&theme=radical">
 </p>
+<a href="https://discord.gg/e52RFh7Cg2"><img width=20 src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Font_Awesome_5_brands_discord_color.svg/1200px-Font_Awesome_5_brands_discord_color.svg.png"> my discord server</a>
 
