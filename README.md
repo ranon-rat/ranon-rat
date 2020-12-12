@@ -20,30 +20,30 @@
 <h1> my best projects in my github they are </h1>
 <p >                 
 <a href="https://github.com/pythonBoy123/redditReplaceHumans">
-  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true&theme=radical"></a>
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true&theme=tokyonight"></a>
  </a>
 <a href="https://ranon-rat.github.io/monkeyPage/">
-   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true&theme=radical">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true&theme=tokyonight">
  </a>
 <a href="https://github.com/ranon-rat/golang-spyware">
-   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true&theme=radical">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true&theme=tokyonight">
  </a>
 <a href="https://github.com/ranon-rat/echo-server-go"
-  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true&theme=radical">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true&theme=tokyonight">
  </a>
 <a href="https://github.com/ranon-rat/when-haces-tus-momos-en-consola">
-  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=when-haces-tus-momos-en-consola&show_owner=true&theme=radical">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=when-haces-tus-momos-en-consola&show_owner=true&theme=tokyonight">
 </a>
 <a href="https://github.com/ranon-rat/golang-remote">
-  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true&theme=radical">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true&theme=tokyonight">
   </a>
   </p>
   
 <h1> stats</h1>
 
 <p>
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=radical">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true&theme=radical">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 <a href="https://discord.gg/e52RFh7Cg2"><img width=20 src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Font_Awesome_5_brands_discord_color.svg/1200px-Font_Awesome_5_brands_discord_color.svg.png"> my discord server</a>
 
