@@ -54,7 +54,7 @@
     
    - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
 
-- <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> 
+- <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> </h2>
   
   - <h3> About him</h3>
   
