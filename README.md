@@ -59,7 +59,7 @@
   
   - <h2>About him</h2>
   
-    - is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
+    - He is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
   - <h3> Projects that i made with ElPanaJose</h3> 
     
@@ -71,7 +71,7 @@
   
   - <h3> About him</h3>
   
-    - is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
+    - He is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
   
   - <h3> Project that i made with RustyBalboaDev</h3>
   
@@ -81,7 +81,7 @@
   
   - <h3>About Him</h3>
    
-    - is a junior Python developer but does some cool stuff.
+    - He is a junior Python developer but does some cool stuff.
   
 
 
