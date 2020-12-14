@@ -44,7 +44,7 @@
 
 - <h2><a href="https://github.com/ELPanaJose"> ElPanaJose</a></h2>
   
-  - <h2>about him</h2>
+  - <h2>About him</h2>
   
     - is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
