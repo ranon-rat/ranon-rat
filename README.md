@@ -48,7 +48,7 @@
   
     - is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
-  - <h3> projects that i made with ElPanaJose</h3> 
+  - <h3> Projects that i made with ElPanaJose</h3> 
     
     - <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
     
@@ -60,7 +60,7 @@
   
     - is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
   
-  - <h3> project that i made with rustyBalboaDev</h3>
+  - <h3> Project that i made with RustyBalboaDev</h3>
   
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
 
