@@ -16,6 +16,7 @@
 
 <h1 id="aboutMe"> about me</h1>
 <h4> I am a programmer of 15 years old i really like coding, you gonna see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
+<img src="https://komarev.com/ghpvc/?username=ranon-rat" alt="blueedge"/> 
 
 ---------------------------------------------
 
