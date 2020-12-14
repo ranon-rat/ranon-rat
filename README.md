@@ -42,7 +42,7 @@
 
 <h1> My friends</h1>
 
-- <a href="https://github.com/ELPanaJose"> ElPanaJose</a> is a junior developer in javascript,typescript, python and golang. He did chatPai..
+- <a href="https://github.com/ELPanaJose"> ElPanaJose</a> is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
 - <h2> projects that i made with ElPanaJose</h1> 
     
