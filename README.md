@@ -42,21 +42,26 @@
 
 <h1> My friends</h1>
 
-- <a href="https://github.com/ELPanaJose"> ElPanaJose</a> is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
+- <h2><a href="https://github.com/ELPanaJose"> ElPanaJose</a></h2>
+  - <h2> about him</h2>
+   - is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
-- <h2> projects that i made with ElPanaJose</h1> 
+- <h3> projects that i made with ElPanaJose</h3> 
     
     - <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
     
     - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
 
-- <a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
-  
-  - <h2> project that i made with rustyBalboaDev</h2>
+- <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> 
+  - <h3> About him</h3>
+    - is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
+  - <h3> project that i made with rustyBalboaDev</h3>
   
    - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
 
-- <a href="https://github.com/01laika"> Laika </a>  is a junior Python developer but does some cool stuff.
+- <h2><a href="https://github.com/01laika"> Laika </a></h2>
+  - <h3>About Him</h3>
+   - is a junior Python developer but does some cool stuff.
   
   - nothing yet 
   
