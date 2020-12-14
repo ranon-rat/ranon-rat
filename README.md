@@ -1,6 +1,8 @@
 
 <h1  align="center">Hello I am ranon-rat</h1>
 
+<h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> </h2>
+
 --------------------------------------------
 
 <h2>i programm in nodejs , golang & arduino</h2>
@@ -12,12 +14,12 @@
 
 ---------------------------------------------
 
-<h1> about me</h1>
+<h1 id="aboutMe"> about me</h1>
 <h4> I am a programmer of 15 years old i really like coding, you gonna see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
 
 ---------------------------------------------
 
-<h1> my best projects in my github they are </h1>
+<h1 id ="projects"> my best projects in my github they are </h1>
 <p align="center">                 
 <a href="https://github.com/pythonBoy123/redditReplaceHumans">
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true&theme=tokyonight"></a>
@@ -40,7 +42,7 @@
   </p>
   
 
-<h1> stats</h1>
+<h1 id ="stats"> stats</h1>
 
 <p>
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight">
@@ -51,7 +53,7 @@
 
 
 
-<h1> ⭐️ My friends ⭐️</h1>
+<h1 id="myFriends"> ⭐️ My friends ⭐️</h1>
 
 - <h2><a href="https://github.com/ELPanaJose"> ⭐️ ElPanaJose ⭐️</a></h2>
   
