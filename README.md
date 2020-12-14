@@ -40,9 +40,9 @@
   </p>
 
 
-<h1> My friends</h1>
+<h1> ⭐️ My friends ⭐️</h1>
 
-- <h2><a href="https://github.com/ELPanaJose"> ElPanaJose</a></h2>
+- <h2><a href="https://github.com/ELPanaJose"> ⭐️ ElPanaJose ⭐️</a></h2>
   
   - <h2>About him</h2>
   
@@ -50,7 +50,7 @@
 
   - <h3> Projects that i made with ElPanaJose</h3> 
     
-    - <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
+    -  <a href="https://chat-pai.herokuapp.com/"> ⭐️ chatPai ⭐️ </a>
     
     - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
 
