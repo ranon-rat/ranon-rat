@@ -43,14 +43,14 @@
 <h1> My friends</h1>
 
 - <h2><a href="https://github.com/ELPanaJose"> ElPanaJose</a></h2>
-  - <h2> about him</h2>
+  - <h2>about him</h2>
    - is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
-- <h3> projects that i made with ElPanaJose</h3> 
+  - <h3> projects that i made with ElPanaJose</h3> 
     
-    - <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
+   - <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
     
-    - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
+   - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
 
 - <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> 
   - <h3> About him</h3>
