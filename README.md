@@ -42,12 +42,12 @@
 
 <h1> My friends</h1>
 
-- <a href="https://github.com/ELPanaJose"> ElPanaJose</a> is junior developer in javascript, typescript, python and golang. He do chatPai .
+- <a href="https://github.com/ELPanaJose"> ElPanaJose</a> is a junior developer in javascript, typing, python and golang. He did chatPai..
   - <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
    
-- <a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> is a senior developer in python and golang. He do yoink.rip.
+- <a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> is a senior python and golang developer. He did yoink.rip.
   - <a href="https://yoink.rip/">yoink.rip</a>
-- <a href="https://github.com/01laika"> Laika </a> is a junior developer in python but they do some interesting things.
+- <a href="https://github.com/01laika"> Laika </a>  is a junior Python developer but does some cool stuff.
   
 
 <h1> stats</h1>
