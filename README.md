@@ -1,7 +1,7 @@
 
 <h1  align="center">Hello I am ranon-rat</h1>
 
-<h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"><img width=20 src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Font_Awesome_5_brands_discord_color.svg/1200px-Font_Awesome_5_brands_discord_color.svg.png"> my discord server</a></h2>
+<h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"> my discord server</a></h2>
 
 --------------------------------------------
 
