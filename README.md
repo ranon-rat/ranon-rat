@@ -43,7 +43,9 @@
 <h1> My friends</h1>
 
 - <h2><a href="https://github.com/ELPanaJose"> ElPanaJose</a></h2>
+  
   - <h2>about him</h2>
+  
    - is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
   - <h3> projects that i made with ElPanaJose</h3> 
@@ -53,14 +55,18 @@
    - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
 
 - <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> 
+  
   - <h3> About him</h3>
-    - is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
+  
+   - is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
+  
   - <h3> project that i made with rustyBalboaDev</h3>
   
    - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
 
 - <h2><a href="https://github.com/01laika"> Laika </a></h2>
   - <h3>About Him</h3>
+   
    - is a junior Python developer but does some cool stuff.
   
   - nothing yet 
