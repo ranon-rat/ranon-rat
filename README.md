@@ -78,11 +78,7 @@
   
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
 
-- <h2><a href="https://github.com/01laika"> Laika </a></h2>
-  
-  - <h3>About Him</h3>
-   
-    - He is a junior Python developer but does some cool stuff.
+
   
 
 
