@@ -28,8 +28,8 @@
 <a href="https://ranon-rat.github.io/monkeyPage/">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true&theme=tokyonight">
  </a>
-<a href="https://github.com/ranon-rat/golang-spyware">
-   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-spyware&show_owner=true&theme=tokyonight">
+<a href="https://github.com/ranon-rat/FractalsGolang">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=FractalsGolang&show_owner=true&theme=tokyonight">
  </a>
 <a href="https://github.com/ranon-rat/echo-server-go"
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=echo-server-go&show_owner=true&theme=tokyonight">
