@@ -25,8 +25,8 @@
 <a href="https://github.com/pythonBoy123/redditReplaceHumans">
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true&theme=tokyonight"></a>
  </a>
-<a href="https://ranon-rat.github.io/monkeyPage/">
-   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=monkeyPage&show_owner=true&theme=tokyonight">
+<a href="https://ranon-rat.github.io/neuralTextGenerator">
+   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=neuralTextGenerator&show_owner=true&theme=tokyonight">
  </a>
 <a href="https://github.com/ranon-rat/FractalsGolang">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=FractalsGolang&show_owner=true&theme=tokyonight">
