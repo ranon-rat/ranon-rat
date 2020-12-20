@@ -5,7 +5,7 @@
 
 --------------------------------------------
 
-<h2>i programm in nodejs , golang , c++ & rust</h2>
+<h2 align ="center" >i programm in nodejs , golang , c++ & rust</h2>
 <p align="center" >
   <img height=150 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img height=150  src="https://miro.medium.com/fit/c/262/262/1*yh90bW8jL4f8pOTZTvbzqw.png">
