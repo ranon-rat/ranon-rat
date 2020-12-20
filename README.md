@@ -5,11 +5,11 @@
 
 --------------------------------------------
 
-<h2>i programm in nodejs , golang & arduino</h2>
+<h2>i programm in nodejs , golang , c++ & rust</h2>
 <p align="center" >
   <img height=150 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img height=150  src="https://miro.medium.com/fit/c/262/262/1*yh90bW8jL4f8pOTZTvbzqw.png">
-  <img height=150 src = "https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
+  <img height=150 src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
   <img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png">
 </p>
 
