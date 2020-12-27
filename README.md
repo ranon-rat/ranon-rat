@@ -66,7 +66,8 @@
 
     | Projects that i made with ElPanaJose |
     |--------------------------------------|
-    | <a href="https://chat-pai.herokuapp.com/"> ⭐️ chatPai ⭐️ </a> |  <a href="https://github.com/ELPanaJose/BotJose"> botJose</a>  |
+    | <a href="https://chat-pai.herokuapp.com/"> ⭐️ chatPai ⭐️ </a> | 
+    | <a href="https://github.com/ELPanaJose/BotJose"> botJose</a>  |
  
 
 - <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> </h2>
