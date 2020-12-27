@@ -64,11 +64,10 @@
   
     - He is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
-  - <h3> Projects that i made with ElPanaJose</h3> 
-    
-    -  <a href="https://chat-pai.herokuapp.com/"> ⭐️ chatPai ⭐️ </a>
-    
-    - <a href="https://github.com/ELPanaJose/BotJose"> botJose</a> 
+    | Projects that i made with ElPanaJose |
+    |--------------------------------------|
+    | <a href="https://chat-pai.herokuapp.com/"> ⭐️ chatPai ⭐️ </a> |  <a href="https://github.com/ELPanaJose/BotJose"> botJose</a>  |
+ 
 
 - <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> </h2>
   
