@@ -42,6 +42,9 @@
 <a href="https://github.com/ranon-rat/golang-remote">
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=golang-remote&show_owner=true&theme=tokyonight">
   </a>
+  <a href="https://github.com/ranon-rat/sayBruh">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=sayBruh&show_owner=true&theme=tokyonight">
+  </a>
   </p>
   
 
