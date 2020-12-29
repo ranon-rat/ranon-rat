@@ -11,7 +11,7 @@
     <img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
   <img height=150  src="https://ranon-rat.herokuapp.com/image/gopher.png">
   <img height=150 src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-  <img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png">
+  <img height=150 src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png">
 
 </p>
 
