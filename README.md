@@ -11,7 +11,7 @@
     <img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
   <img height=150  src="https://cdn.discordapp.com/emojis/795544134416728065.gif">
   <img height=150 src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
-  <img height=150 src="https://rustacean.net/assets/cuddlyferris.png">
+  <img height=150 src="https://cdn.discordapp.com/emojis/796195773074636801.gif?v=1">
 
 </p>
 
