@@ -3,7 +3,8 @@
 <h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"> my discord server</a></h2>
 
 
-<h2 align = "center"> I Programm in this languages </h2>
+<h2 align = "center"> 
+I program in these languages </h2>
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b19864f800e20ca559cd76b53f377ef65249119ce7a8da98becc200f6ef56e30/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d464245313232453337372d7365656b6c6f676f2e636f6d2e706e67"><img height="150" src="https://camo.githubusercontent.com/b19864f800e20ca559cd76b53f377ef65249119ce7a8da98becc200f6ef56e30/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d464245313232453337372d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9255dba4a9ad5a906afd63a77b2d3498cbd7fa527008a417968683f5e8e545b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67"><img height="150" src="https://camo.githubusercontent.com/9255dba4a9ad5a906afd63a77b2d3498cbd7fa527008a417968683f5e8e545b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width:100%;"></a>
