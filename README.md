@@ -2,7 +2,7 @@
 
 <h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"> my discord server</a></h2>
 
----
+
 
 
 
@@ -72,7 +72,7 @@
 
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
     
-    
+    ---
  <h2 align ="center" >I know</h2>
 <p align="center" >
 <center>
