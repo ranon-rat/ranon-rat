@@ -57,7 +57,7 @@ I program in these languages </h2>
 
 <h1 id="myFriends"> ⭐️ My friends ⭐️</h1>
 
-- <h2><a href="https://github.com/ELPanaJose"> ⭐️ ElPanaJose ⭐️</a></h2>
+- <h2><a href="https://gitlab.com/ELPanaJose1"> ⭐️ ElPanaJose ⭐️</a></h2>
 
   - <h2>About him</h2>
 
