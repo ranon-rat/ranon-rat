@@ -78,7 +78,10 @@ I program in these languages </h2>
   - <h3> Project that i made with RustyBalboaDev</h3>
 
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
-    
+- ## [Ale](https://github.com/ale444113)
+  - <h3> About him</h3>
+   - He is really nice and he is my friend 
+     
     ---
  <h2 align ="center" >I know</h2>
 <p align="center" >
