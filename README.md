@@ -23,8 +23,8 @@ I program in these languages </h2>
 
 <h1 id ="projects"> my best projects in my github they are </h1>
 <p align="center">                 
-<a href="https://github.com/pythonBoy123/redditReplaceHumans">
-  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=redditReplaceHumans&show_owner=true&theme=tokyonight"></a>
+<a href="https://github.com/ranon-rat/makingABlogWithGolang">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=makingABlogWithGolang&show_owner=true&theme=tokyonight"></a>
  </a>
 <a href="https://github.com/ranon-rat/neuralTextGenerator">
    <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=neuralTextGenerator&show_owner=true&theme=tokyonight">
