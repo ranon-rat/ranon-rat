@@ -80,7 +80,7 @@ I program in these languages </h2>
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
 - ## [Ale](https://github.com/ale444113)
   - <h3> About him</h3>
-    - He is really nice and he is my friend 
+    <li> He is really nice and he is my friend </li>
 - ## [Gsus](https://github.com/CyberGsus) 
   - ### about him
     - He really knows what he's doing, the guy knows a lot about the low level and even x86 assembly programming at 16 is pretty smart 
