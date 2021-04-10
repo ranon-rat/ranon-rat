@@ -50,7 +50,8 @@ I program in these languages </h2>
 
 <p>
   
-![Metrics](https://metrics.lecoq.io/ranon-rat?template=terminal&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City)
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true&theme=tokyonight">
 
 </p>
 
