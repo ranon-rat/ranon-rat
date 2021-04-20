@@ -98,6 +98,7 @@ I program in these languages </h2>
 | **Markup languages** | <img height = 60 src="https://image.flaticon.com/icons/png/512/1216/1216733.png"><img height = 60 src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png"> <img height=60 src="https://image.flaticon.com/icons/png/512/29/29611.png">
 | **Databases** | <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"> <img height =60 src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
 | **Routers** |<img height=60 src="https://miro.medium.com/max/400/1*dQnbv0c36h6ijsocaRWksQ.png"> <img height=60 src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png"> <img height=60 src="https://www.sourcefuse.com/wp-content/uploads/2018/11/express.png"> 
+|**dev ops**| <img height=60 src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png">
 
 
 </center>
