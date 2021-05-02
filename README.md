@@ -83,9 +83,13 @@ I program in these languages </h2>
 - ## [Ale](https://github.com/ale444113)
   - <h3> About him</h3>
     <li> He is really nice and he is my friend </li>
+- ## [RodrigoAlanisWeb](https://github.com/RodrigoAlanisWeb)
+  - ### about him
+    - He knows a lot about javascript ,typescript , css and go. He help me in one project and it was incredible. 
 - ## [Gsus](https://github.com/CyberGsus) 
   - ### about him
     - He really knows what he's doing, the guy knows a lot about the low level and even x86 assembly programming at 16 is pretty smart 
+
     ---
  <h2 align ="center" >I know</h2>
 <p align="center" >
