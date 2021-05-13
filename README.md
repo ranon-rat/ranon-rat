@@ -108,5 +108,3 @@ I program in these languages </h2>
 </center>
 </p>
 
-# esta pal marico de Ulises
-![img](https://tenor.com/view/legion-fx-david-hands-hi-there-gif-14573355.gif)
