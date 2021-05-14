@@ -1,8 +1,11 @@
 <h1  align="center">Hello I am ranon-rat</h1>
 
 <h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"> my discord server</a></h2>
+<div align="center">
 
-
+# give me  stars
+<img src="https://user-images.githubusercontent.com/66473662/118324614-e184cb00-b4c7-11eb-8e9c-4812996e736c.png" width=500>
+</div>
 <h2 align = "center"> 
 I program in these languages </h2>
 <p align="center">
