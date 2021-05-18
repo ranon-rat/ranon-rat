@@ -88,7 +88,11 @@ I program in these languages </h2>
     <li> He is really nice and he is my friend </li>
 - ## [RodrigoAlanisWeb](https://github.com/RodrigoAlanisWeb)
   - ### about him
-    - He knows a lot about javascript ,typescript , css and go. He help me in one project and it was incredible. 
+    - He knows a lot about javascript ,typescript , css and go. He help me in one project and it was incredible.
+- ## [Jumang4423](https://github.com/jumang4423)
+  - ### about him
+    - I like his [music](https://soundcloud.com/jumang4423) , and their projects have a great quality so I recommend you to visit his github profile
+   
 - ## [Gsus](https://github.com/CyberGsus) 
   - ### about him
     - He really knows what he's doing, the guy knows a lot about the low level and even x86 assembly programming at 16 is pretty smart 
