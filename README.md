@@ -3,28 +3,33 @@
 <h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"> my discord server</a></h2>
 <div align="center">
 
+  
 # give me  stars
 <img src="https://user-images.githubusercontent.com/66473662/118324614-e184cb00-b4c7-11eb-8e9c-4812996e736c.png" width=500>
 </div>
-<h2 align = "center"> 
-I program in these languages </h2>
-<p align="center">
+<details>
+
+  <summary> <h2 align = "center">I program in these languages </h2></summary>
+  <br>
+  <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b19864f800e20ca559cd76b53f377ef65249119ce7a8da98becc200f6ef56e30/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d464245313232453337372d7365656b6c6f676f2e636f6d2e706e67"><img height="150" src="https://camo.githubusercontent.com/b19864f800e20ca559cd76b53f377ef65249119ce7a8da98becc200f6ef56e30/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d464245313232453337372d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9255dba4a9ad5a906afd63a77b2d3498cbd7fa527008a417968683f5e8e545b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67"><img height="150" src="https://camo.githubusercontent.com/9255dba4a9ad5a906afd63a77b2d3498cbd7fa527008a417968683f5e8e545b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34632f547970657363726970745f6c6f676f5f323032302e7376672f3132303070782d547970657363726970745f6c6f676f5f323032302e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82a5f91b3c5f8ff699f9a79ef46a81b3c7800d7e8e63651b1a75810f24106b0e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739353534343133343431363732383036352e676966"><img height="150" src="https://camo.githubusercontent.com/82a5f91b3c5f8ff699f9a79ef46a81b3c7800d7e8e63651b1a75810f24106b0e/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739353534343133343431363732383036352e676966" data-canonical-src="https://cdn.discordapp.com/emojis/795544134416728065.gif" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5ff8c4958c84d260a95ab0a2413c37728b9f43c25c5f82e20ca9c0918a76e84d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f3132303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67"><img height="150" src="https://camo.githubusercontent.com/5ff8c4958c84d260a95ab0a2413c37728b9f43c25c5f82e20ca9c0918a76e84d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f3132303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bf64345adc6adfb2cb30950f35c2f1f1ef08a64c4df1b44426655f9906981998/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739363139353737333037343633363830312e6769663f763d31"><img height=150 src="https://camo.githubusercontent.com/bf64345adc6adfb2cb30950f35c2f1f1ef08a64c4df1b44426655f9906981998/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739363139353737333037343633363830312e6769663f763d31" data-canonical-src="https://cdn.discordapp.com/emojis/796195773074636801.gif?v=1" style="max-width:100%;"></a><img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
 </p>
+</details>
+<details>
 
----
+  <summary>   <h2 id="aboutMe " align = "center" >about me </h2></summary>
 
-<h1 id="aboutMe"> about me</h1>
 <h4> I am a programmer of 15 years old i really like coding, you gonna see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
 <img src="https://komarev.com/ghpvc/?username=ranon-rat" alt="blueedge"/>
 
----
+ </details>   
 
-<h1 id ="projects"> my best projects in my github they are </h1>
+<details>  
+  <summary><h2 id ="projects" align="center"> my best projects in my github they are </h2></summary>
 <p align="center">                 
 <a href="https://github.com/ranon-rat/makingABlogWithGolang">
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=makingABlogWithGolang&show_owner=true&theme=tokyonight"></a>
@@ -48,8 +53,9 @@ I program in these languages </h2>
   <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=ranon-rat&repo=sayBruh&show_owner=true&theme=tokyonight">
   </a>
   </p>
-
-<h1 id ="stats"> stats</h1>
+ </details> 
+  <details> 
+  <summary><h2 id ="stats" align="center"> stats</h2></summary>
 
 <p>
   
@@ -59,12 +65,14 @@ I program in these languages </h2>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ranon-rat">
+ </details> 
+ 
+<details> 
+  <summary><h2 id="myFriends" align="center"> ⭐️ My friends ⭐️</h2></summary>
 
-<h1 id="myFriends"> ⭐️ My friends ⭐️</h1>
+- <h3><a href="https://github.com/ELPanaJose"> ⭐️ ElPanaJose ⭐️</a></h3>
 
-- <h2><a href="https://github.com/ELPanaJose"> ⭐️ ElPanaJose ⭐️</a></h2>
-
-  - <h2>About him</h2>
+  - <h3>About him</h3>
 
     - He is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
 
@@ -74,31 +82,33 @@ I program in these languages </h2>
     | <a href="https://github.com/ELPanaJose/BotJose"> botJose</a>    |
     | <a href="https://github.com/ranon-rat/sayBruh">sayBruh</a>      |
 
-- <h2><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> </h2>
+- <h3><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> </h3>
 
-  - <h3> About him</h3>
+  - <h4> About him</h4>
 
     - He is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
 
-  - <h3> Project that i made with RustyBalboaDev</h3>
+  - <h4> Project that i made with RustyBalboaDev</h4>
 
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
-- ## [Ale](https://github.com/ale444113)
-  - <h3> About him</h3>
+- ### [Ale](https://github.com/ale444113)
+  - <h4> About him</h4>
     <li> He is really nice and he is my friend </li>
-- ## [RodrigoAlanisWeb](https://github.com/RodrigoAlanisWeb)
-  - ### about him
+- ### [RodrigoAlanisWeb](https://github.com/RodrigoAlanisWeb)
+  - #### about him
     - He knows a lot about javascript ,typescript , css and go. He help me in one project and it was incredible.
-- ## [Jumang4423](https://github.com/jumang4423)
-  - ### about him
+- ### [Jumang4423](https://github.com/jumang4423)
+  - #### about him
     - I like his [music](https://soundcloud.com/jumang4423) , and their projects have a great quality so I recommend you to visit his github profile
    
-- ## [Gsus](https://github.com/CyberGsus) 
-  - ### about him
+- ### [Gsus](https://github.com/CyberGsus) 
+  - #### about him
     - He really knows what he's doing, the guy knows a lot about the low level and even x86 assembly programming at 16 is pretty smart 
 
-    ---
- <h2 align ="center" >I know</h2>
+ 
+</details> 
+<details> 
+ <summary><h2 align ="center" >I know</h2></summary>
 <p align="center" >
 <center>
 
@@ -114,4 +124,4 @@ I program in these languages </h2>
 
 </center>
 </p>
-
+</details>
