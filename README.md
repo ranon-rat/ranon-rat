@@ -104,7 +104,10 @@
 - ### [Gsus](https://github.com/CyberGsus) 
   - #### about him
     - He really knows what he's doing, the guy knows a lot about the low level and even x86 assembly programming at 16 is pretty smart 
-
+- ### [flames](https://github.com/FlamesX-128)
+  - #### about him
+    - He is really good learning and he knows a lot 
+      
  
 </details> 
 <details> 
