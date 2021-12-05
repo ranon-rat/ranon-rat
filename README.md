@@ -70,7 +70,7 @@
 <details> 
   <summary><h2 id="myFriends" align="center"> ⭐️ My friends ⭐️</h2></summary>
 
-- <h3><a href="https://github.com/ELPanaJose"> ⭐️ ElPanaJose ⭐️</a></h3>
+- <h3><a href="https://github.com/paij0se"> ⭐️ ElPanaJose ⭐️</a></h3>
 
   - <h3>About him</h3>
 
