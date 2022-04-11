@@ -91,9 +91,7 @@
   - <h4> Project that i made with RustyBalboaDev</h4>
 
     - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
-- ### [Ale](https://github.com/ale444113)
-  - <h4> About him</h4>
-    <li> He is really nice and he is my friend </li>
+
 - ### [RodrigoAlanisWeb](https://github.com/RodrigoAlanisWeb)
   - #### about him
     - He knows a lot about javascript ,typescript , css and go. He help me in one project and it was incredible.
