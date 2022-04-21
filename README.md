@@ -23,7 +23,7 @@
 
   <summary>   <h2 id="aboutMe " align = "center" >about me </h2></summary>
 
-<h4> I am a 16 years old  programmer i really like coding, you gonna see creative things like a music generator or discord bot but. is not the only thing i do , sometimes i like to make tcp servers or web pages .</h4>
+<h4> Im another programet , i really like coding, you gonna see creative things like a neural network make from scratch , another way of calculating pi and maybe in some days you are going to see a basic descentralize p2p chat using libp2p .</h4>
 <img src="https://komarev.com/ghpvc/?username=ranon-rat" alt="blueedge"/>
 
  </details>   
