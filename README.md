@@ -67,47 +67,7 @@
 <img src="https://komarev.com/ghpvc/?username=ranon-rat">
  </details> 
  
-<details> 
-  <summary><h2 id="myFriends" align="center"> ⭐️ My friends ⭐️</h2></summary>
 
-- <h3><a href="https://github.com/paij0se"> ⭐️ ElPanaJose ⭐️</a></h3>
-
-  - <h3>About him</h3>
-
-    - He is a junior developer in javascript,typescript, python and golang. He did <a href="https://chat-pai.herokuapp.com/"> chatPai </a>
-
-    | Projects that i made with ElPanaJose                            |
-    | --------------------------------------------------------------- |
-    | <a href="https://chat-pai.herokuapp.com/"> ⭐️ chatPai ⭐️ </a> |
-    | <a href="https://github.com/ELPanaJose/BotJose"> botJose</a>    |
-    | <a href="https://github.com/ranon-rat/sayBruh">sayBruh</a>      |
-
-- <h3><a href="https://github.com/RustyBalboadev"> RustyBalboaDev</a> </h3>
-
-  - <h4> About him</h4>
-
-    - He is a senior python and golang developer. He did <a href="https://yoink.rip/">yoink.rip</a>
-
-  - <h4> Project that i made with RustyBalboaDev</h4>
-
-    - <a href="https://github.com/ranon-rat/echo-server-go">echo server go</a>
-
-- ### [RodrigoAlanisWeb](https://github.com/RodrigoAlanisWeb)
-  - #### about him
-    - He knows a lot about javascript ,typescript , css and go. He help me in one project and it was incredible.
-- ### [Jumang4423](https://github.com/jumang4423)
-  - #### about him
-    - I like his [music](https://soundcloud.com/jumang4423) , and their projects have a great quality so I recommend you to visit his github profile
-   
-- ### [Gsus](https://github.com/CyberGsus) 
-  - #### about him
-    - He really knows what he's doing, the guy knows a lot about the low level and even x86 assembly programming at 16 is pretty smart 
-- ### [flames](https://github.com/FlamesX-128)
-  - #### about him
-    - He is really good learning and he knows a lot 
-      
- 
-</details> 
 <details> 
  <summary><h2 align ="center" >I know</h2></summary>
 <p align="center" >
