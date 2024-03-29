@@ -1,6 +1,6 @@
 <h1  align="center">Hello I am ranon-rat</h1>
 
-<h2 align ="center"><a href="#aboutMe">  about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#myFriends">  my friends</a> |<a href="https://discord.gg/e52RFh7Cg2"> my discord server</a></h2>
+<h2 align ="center"><a href="#projects">  projects</a>|<a href="#stats"> stats </a>
 <div align="center">
 
   
@@ -19,14 +19,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bf64345adc6adfb2cb30950f35c2f1f1ef08a64c4df1b44426655f9906981998/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739363139353737333037343633363830312e6769663f763d31"><img height=150 src="https://camo.githubusercontent.com/bf64345adc6adfb2cb30950f35c2f1f1ef08a64c4df1b44426655f9906981998/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739363139353737333037343633363830312e6769663f763d31" data-canonical-src="https://cdn.discordapp.com/emojis/796195773074636801.gif?v=1" style="max-width:100%;"></a><img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"><img height=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1280px-Haskell-Logo.svg.png">
 </p>
 </details>
-<details>
 
-  <summary>   <h2 id="aboutMe " align = "center" >about me </h2></summary>
-
-<h4> Im another programet , i really like coding, you gonna see creative things like a neural network make from scratch , another way of calculating pi and maybe in some days you are going to see a basic descentralize p2p chat using libp2p .</h4>
-<img src="https://komarev.com/ghpvc/?username=ranon-rat" alt="blueedge"/>
-
- </details>   
 
 <details>  
   <summary><h2 id ="projects" align="center"> my best projects in my github they are </h2></summary>
