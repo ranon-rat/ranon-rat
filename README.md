@@ -60,22 +60,3 @@
 <img src="https://komarev.com/ghpvc/?username=ranon-rat">
  </details> 
  
-
-<details> 
- <summary><h2 align ="center" >I know</h2></summary>
-<p align="center" >
-<center>
-
-
-| <h1>What is </h1>| <h1>I know</h1>|
-|----|---|
-| **Programming languages** | <img height=60 src= "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"><img height=60  src="https://cdn.discordapp.com/emojis/795544134416728065.gif"><img height=60 src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"><img height=60 src="https://cdn.discordapp.com/emojis/796195773074636801.gif?v=1"> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
-| **Markup languages** | <img height = 60 src="https://image.flaticon.com/icons/png/512/1216/1216733.png"><img height = 60 src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png"> <img height=60 src="https://image.flaticon.com/icons/png/512/29/29611.png">
-| **Databases** | <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"> <img height =60 src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
-| **Routers** |<img height=60 src="https://miro.medium.com/max/400/1*dQnbv0c36h6ijsocaRWksQ.png"> <img height=60 src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png"> <img height=60 src="https://www.sourcefuse.com/wp-content/uploads/2018/11/express.png"> 
-|**dev ops**| <img height=60 src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png">
-
-
-</center>
-</p>
-</details>
