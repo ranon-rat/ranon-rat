@@ -1,6 +1,6 @@
 <h1  align="center">Hello I am ranon-rat</h1>
 
-<h2 align ="center"><a href="#projects">  projects</a>|<a href="#stats"> stats </a>
+<h2 align ="center"><a href="#stats"> stats </a>
 <div align="center">
 
   
