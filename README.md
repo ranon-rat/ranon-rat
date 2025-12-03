@@ -13,7 +13,7 @@
 
 <p>
   
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html&langs_count=8">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=ranon-rat&count_private=true&show_icons=true&theme=tokyonight">
 
 </p>
