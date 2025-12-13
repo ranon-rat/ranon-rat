@@ -1,8 +1,4 @@
 <h1  align="center">Hello I am ranon-rat</h1>
-
-<h2 align ="center"><a href="#stats"> stats </a>
-<div align="center">
-
   
 # give me  stars
 <img src="https://user-images.githubusercontent.com/66473662/118324614-e184cb00-b4c7-11eb-8e9c-4812996e736c.png" width=500>
@@ -16,6 +12,11 @@ Experienced developer specializing in low-level programming, and data science. P
 - **Languages**: Go (Expert), TypeScript (Expert), C++ (Advanced), Rust (Intermediate), OCaml, Haskell, Java  
 - **Tools**: Docker, PostgreSQL, Git, Linux, Kubernetes, Redis  
 - **Domains**: Systems programming, networking, data science
+
+<h2 align ="center"><a href="#stats"> stats </a>
+<div align="center">
+
+
 
 </div>
 
