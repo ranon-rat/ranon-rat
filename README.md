@@ -2,12 +2,12 @@
 
 # about me
 
-Experienced developer specializing in low-level programming, and data science. Proficient in systems-level tools and custom interpreters, with projects in networking and build systems.
+Currently I'm specializing in low-level programming, and data science. I have a long experience coding different kinds of projects that can be noticed just by visiting a few of my public repositories. 
 
 # skills 
 
 - **Languages**: Go (Expert), TypeScript (Expert), C++ (Advanced), Rust (Intermediate), OCaml, Haskell, Java  
-- **Tools**: Docker, PostgreSQL, Git, Linux, Kubernetes, Redis  
+- **Tools**: Docker, PostgreSQL, Git, Linux
 - **Domains**: Systems programming, networking, data science
 
 <h2 align ="center"><a href="#stats"> stats </a>
