@@ -2,7 +2,7 @@
 
 # about me
 
-Currently I'm specializing in low-level programming, and data science. I have a long experience coding different kinds of projects that can be noticed just by visiting a few of my public repositories. 
+I am currently specializing in low-level programming and data science. I have extensive experience developing a wide variety of projects, which can be easily seen by exploring some of my public repositories.
 
 # skills 
 
