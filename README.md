@@ -6,7 +6,7 @@ Currently I'm specializing in low-level programming, and data science. I have a 
 
 # skills 
 
-- **Languages**: Go (Expert), TypeScript (Expert), C++ (Advanced), Rust (Intermediate), OCaml, Haskell, Java  
+- **Languages**: Go, TypeScript, C++, Rust, OCaml, Haskell, Java  
 - **Tools**: Docker, PostgreSQL, Git, Linux
 - **Domains**: Systems programming, networking, data science
 
