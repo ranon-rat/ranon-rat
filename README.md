@@ -25,7 +25,7 @@ I am currently specializing in low-level programming and data science. I have ex
 
 <p>
   
-<img height=150 src="https://github-stats.ranon-rat.work/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html&langs_count=6">
+<img height=150 src="https://github-stats.ranon-rat.work/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html,python,sass,css&langs_count=6">
 <img height=150 src="https://github-stats.ranon-rat.work/api?username=ranon-rat&count_private=true&show_icons=true&theme=tokyonight">
 
 </p>
