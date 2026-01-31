@@ -7,7 +7,7 @@ I am currently specializing in low-level programming and data science. I have ex
 # skills 
 
 - **Languages**: Go, TypeScript, C++, Rust, OCaml, Haskell, Java  
-- **Tools**: Docker, PostgreSQL, Git, Linux, [Moonmake](https://github.com/ranon-rat/moonmake), [shp](https://github.com/ranon-rat/self-hosting-platform)
+- **Tools**: Docker, PostgreSQL, Git, Linux, cloudflared, [Moonmake](https://github.com/ranon-rat/moonmake)(a simple and understandable build system), [shp](https://github.com/ranon-rat/self-hosting-platform)(a selfhosting manager that I made)
 - **Domains**: Systems programming, networking, data science
 
 <h2 align ="center"><a href="#stats"> stats </a>
