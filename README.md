@@ -12,6 +12,7 @@ I am currently specializing in low-level programming and data science. I have ex
 
 <h2 align ="center"><a href="#stats"> stats </a>
 <div align="center">
+  
 <!--
   
 # give me  stars
