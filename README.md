@@ -3,7 +3,7 @@
 # about me
 
 I am currently specializing in low-level programming and data science. I have extensive experience developing a wide variety of projects, which can be easily seen by exploring some of my public repositories.
-The reason why my username is `ranon-rat` is because I like rats(I had pet rats), not because of some other reason.
+The reason why my username is `ranon-rat` is because I like rats(I had pet rats), not because of some other reason. Currently I am 20 years old. I was born on the 22nd of June, 2005.
 # skills 
 
 - **Languages**: Go, TypeScript, C++, Rust, OCaml, Haskell, Java  
