@@ -3,7 +3,7 @@
 # about me
 
 I am currently specializing in low-level programming and data science. I have extensive experience developing a wide variety of projects, which can be easily seen by exploring some of my public repositories.
-
+The reason why my profile is named `ranon-rat` is because I like rats(and I had pet rats), not because of some other reason.
 # skills 
 
 - **Languages**: Go, TypeScript, C++, Rust, OCaml, Haskell, Java  
