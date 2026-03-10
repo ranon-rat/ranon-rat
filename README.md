@@ -32,8 +32,6 @@ The reason why my username is `ranon-rat` is because I like rats(I had pet rats)
 
 <p>
   
-<img height=150 src="https://github-stats.ranon-rat.work/api/top-langs/?username=ranon-rat&layout=compact&theme=tokyonight&hide=html,python,sass,css,javascript&langs_count=6">
-<img height=150 src="https://github-stats.ranon-rat.work/api?username=ranon-rat&count_private=true&show_icons=true&theme=tokyonight">
 
 </p>
 
