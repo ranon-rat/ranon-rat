@@ -6,7 +6,7 @@ I am currently specializing in low-level programming and data science. I have ex
 The reason why my username is `ranon-rat` is because I like rats(I had pet rats), not because of some other reason. Currently I am 20 years old. I was born on the 22nd of June, 2005.
 # skills 
 
-- **Languages**: Go, TypeScript, C++, Rust, OCaml, Haskell, Java  
+- **Languages**: Go, TypeScript, C++, Rust, OCaml, Haskell, Java, common lisp[currently working on some fun projects :)]
 - **Tools**: Docker, PostgreSQL, Git, Linux, cloudflared, [Moonmake](https://github.com/ranon-rat/moonmake)(a simple and understandable build system), [shp](https://github.com/ranon-rat/self-hosting-platform)(a selfhosting manager that I made)
 - **Domains**: Systems programming, networking, data science
 
